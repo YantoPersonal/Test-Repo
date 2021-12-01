@@ -1,3 +1,7 @@
 Line 1 main-code bug fix
 Line 2 main-code bug fix
 Line 3 main-code bug fix
+Line 1 of your feature
+Line 2 of your feature
+Line 3 of your feature
+
