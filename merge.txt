@@ -1,3 +1,6 @@
 Line 1 main-code
 Line 2 main-code
 Line 3 main-code
+Line 1 of your feature
+Line 2 of your feature
+Line 3 of your feature
